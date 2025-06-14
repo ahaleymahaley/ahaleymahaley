@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**ahaleymahaley/ahaleymahaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Lena is nice to meet you 👋
+😁Front End Developer with a passion to explore HTML, CSS and JavaScript to create interactive and visually appealing websites.
+## Contact Information
+📍Russia, Nizhny Novgorod\
+📧ahaleymahaley@gmail.com
+## Professional Experience
+💼Little commercial development experience with Microsoft Foundation Classes and 1С:Enterprise.
+## Education
+👩‍🎓Lobachevsky State University of Nizhni Novgorod, Institute of Information Technology, Mathematics and Mechanics, Applied Informatics, 2021.
+## Hard Skills
+• HTML\
+• CSS\
+• JavaScript
