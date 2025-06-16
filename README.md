@@ -10,4 +10,7 @@
 ## Hard Skills
 • HTML\
 • CSS\
-• JavaScript
+• JavaScript\
+\
+\
+See more on https://ahaleymahaley.github.io/
